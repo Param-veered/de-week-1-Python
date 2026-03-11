@@ -6,7 +6,7 @@ Welcome! This repo contains everything you need for **Week 1** of the Data Engin
 
 ---
 
-## ⚡ Quick Start
+# ⚡ Quick Start
 
 1. **Clone the repo**
 
