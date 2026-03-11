@@ -2,7 +2,7 @@
 
 Welcome! This repo contains everything you need for **Week 1** of the Data Engineering program: environment setup, Bash/VS Code/Jupyter intros, Git + GitHub workflows, Python practice (basics → intermediate → advanced), and a Pandas primer.
 
-> 💡 Tip: Keep commits small (e.g., one per exercise). When a notebook’s tests pass, Restart Kernel → Run All to ensure a clean run.
+ Tip: Keep commits small (e.g., one per exercise). When a notebook’s tests pass, Restart Kernel → Run All to ensure a clean run.
 
 ---
 
